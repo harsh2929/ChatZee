@@ -1,6 +1,6 @@
 import firebase from "firebase/app";
 import "firebase/storage";
-
+//firebase auth added
 const firebasefirebase = {
   apiKey: "",  //add api
   authDomain: "",
