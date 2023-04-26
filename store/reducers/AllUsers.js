@@ -1,6 +1,6 @@
 import userchat from "../../models/userchat";
 import { CREATE_USER, SET_USERS } from "../actions/AllUsers";
-
+//added auth for groups
 const initialState = {
   users: [],
 };
