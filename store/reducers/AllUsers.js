@@ -4,7 +4,7 @@ import { CREATE_USER, SET_USERS } from "../actions/AllUsers";
 const initialState = {
   users: [],
 };
-
+//name description image actions
 export default (state = initialState, action) => {
   switch (action.type) {
     case CREATE_USER:
